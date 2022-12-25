@@ -1,0 +1,722 @@
+[
+    {
+        "time PST": "06:00",
+        "price": 14
+    },
+    {
+        "time PST": "06:01",
+        "price": 12
+    },
+    {
+        "time PST": "06:02",
+        "price": 8
+    },
+    {
+        "time PST": "06:03",
+        "price": 30
+    },
+    {
+        "time PST": "06:04",
+        "price": 66
+    },
+    {
+        "time PST": "06:05",
+        "price": 42
+    },
+    {
+        "time PST": "06:06",
+        "price": 37
+    },
+    {
+        "time PST": "06:07",
+        "price": 33
+    },
+    {
+        "time PST": "06:08",
+        "price": 73
+    },
+    {
+        "time PST": "06:09",
+        "price": 27
+    },
+    {
+        "time PST": "06:10",
+        "price": 17
+    },
+    {
+        "time PST": "06:11",
+        "price": 13
+    },
+    {
+        "time PST": "06:12",
+        "price": 13
+    },
+    {
+        "time PST": "06:13",
+        "price": 38
+    },
+    {
+        "time PST": "06:14",
+        "price": 30
+    },
+    {
+        "time PST": "06:15",
+        "price": 23
+    },
+    {
+        "time PST": "06:16",
+        "price": 23
+    },
+    {
+        "time PST": "06:17",
+        "price": 25
+    },
+    {
+        "time PST": "06:18",
+        "price": 72
+    },
+    {
+        "time PST": "06:19",
+        "price": 30
+    },
+    {
+        "time PST": "06:20",
+        "price": 12
+    },
+    {
+        "time PST": "06:21",
+        "price": 19
+    },
+    {
+        "time PST": "06:22",
+        "price": 32
+    },
+    {
+        "time PST": "06:23",
+        "price": 13
+    },
+    {
+        "time PST": "06:24",
+        "price": 33
+    },
+    {
+        "time PST": "06:25",
+        "price": 19
+    },
+    {
+        "time PST": "06:26",
+        "price": 16
+    },
+    {
+        "time PST": "06:27",
+        "price": 24
+    },
+    {
+        "time PST": "06:28",
+        "price": 18
+    },
+    {
+        "time PST": "06:29",
+        "price": 55
+    },
+    {
+        "time PST": "06:30",
+        "price": 23
+    },
+    {
+        "time PST": "06:31",
+        "price": 28
+    },
+    {
+        "time PST": "06:32",
+        "price": 16
+    },
+    {
+        "time PST": "06:33",
+        "price": 41
+    },
+    {
+        "time PST": "06:34",
+        "price": 57
+    },
+    {
+        "time PST": "06:35",
+        "price": 21
+    },
+    {
+        "time PST": "06:36",
+        "price": 21
+    },
+    {
+        "time PST": "06:37",
+        "price": 19
+    },
+    {
+        "time PST": "06:38",
+        "price": 15
+    },
+    {
+        "time PST": "06:39",
+        "price": 26
+    },
+    {
+        "time PST": "06:40",
+        "price": 18
+    },
+    {
+        "time PST": "06:41",
+        "price": 32
+    },
+    {
+        "time PST": "06:42",
+        "price": 28
+    },
+    {
+        "time PST": "06:43",
+        "price": 24
+    },
+    {
+        "time PST": "06:44",
+        "price": 51
+    },
+    {
+        "time PST": "06:45",
+        "price": 25
+    },
+    {
+        "time PST": "06:46",
+        "price": 30
+    },
+    {
+        "time PST": "06:47",
+        "price": 15
+    },
+    {
+        "time PST": "06:48",
+        "price": 45
+    },
+    {
+        "time PST": "06:49",
+        "price": 31
+    },
+    {
+        "time PST": "06:50",
+        "price": 19
+    },
+    {
+        "time PST": "06:51",
+        "price": 16
+    },
+    {
+        "time PST": "06:52",
+        "price": 16
+    },
+    {
+        "time PST": "06:53",
+        "price": 18
+    },
+    {
+        "time PST": "06:54",
+        "price": 27
+    },
+    {
+        "time PST": "06:55",
+        "price": 9
+    },
+    {
+        "time PST": "06:56",
+        "price": 17
+    },
+    {
+        "time PST": "06:57",
+        "price": 20
+    },
+    {
+        "time PST": "06:58",
+        "price": 26
+    },
+    {
+        "time PST": "06:59",
+        "price": 25
+    },
+    {
+        "time PST": "07:00",
+        "price": 42
+    },
+    {
+        "time PST": "07:01",
+        "price": 21
+    },
+    {
+        "time PST": "07:02",
+        "price": 13
+    },
+    {
+        "time PST": "07:03",
+        "price": 13
+    },
+    {
+        "time PST": "07:04",
+        "price": 1914
+    },
+    {
+        "time PST": "07:05",
+        "price": 4936
+    },
+    {
+        "time PST": "07:06",
+        "price": 4158
+    },
+    {
+        "time PST": "07:07",
+        "price": 2800
+    },
+    {
+        "time PST": "07:08",
+        "price": 2863
+    },
+    {
+        "time PST": "07:09",
+        "price": 3828
+    },
+    {
+        "time PST": "07:10",
+        "price": 4637
+    },
+    {
+        "time PST": "07:11",
+        "price": 4778
+    },
+    {
+        "time PST": "07:12",
+        "price": 4798
+    },
+    {
+        "time PST": "07:13",
+        "price": 5024
+    },
+    {
+        "time PST": "07:14",
+        "price": 4991
+    },
+    {
+        "time PST": "07:15",
+        "price": 4579
+    },
+    {
+        "time PST": "07:16",
+        "price": 5030
+    },
+    {
+        "time PST": "07:17",
+        "price": 3733
+    },
+    {
+        "time PST": "07:18",
+        "price": 4124
+    },
+    {
+        "time PST": "07:19",
+        "price": 3940
+    },
+    {
+        "time PST": "07:20",
+        "price": 3657
+    },
+    {
+        "time PST": "07:21",
+        "price": 2814
+    },
+    {
+        "time PST": "07:22",
+        "price": 1858
+    },
+    {
+        "time PST": "07:23",
+        "price": 1988
+    },
+    {
+        "time PST": "07:24",
+        "price": 2905
+    },
+    {
+        "time PST": "07:25",
+        "price": 4969
+    },
+    {
+        "time PST": "07:26",
+        "price": 5793
+    },
+    {
+        "time PST": "07:27",
+        "price": 5261
+    },
+    {
+        "time PST": "07:28",
+        "price": 5568
+    },
+    {
+        "time PST": "07:29",
+        "price": 4505
+    },
+    {
+        "time PST": "07:30",
+        "price": 5135
+    },
+    {
+        "time PST": "07:31",
+        "price": 5710
+    },
+    {
+        "time PST": "07:32",
+        "price": 5235
+    },
+    {
+        "time PST": "07:33",
+        "price": 5092
+    },
+    {
+        "time PST": "07:34",
+        "price": 5558
+    },
+    {
+        "time PST": "07:35",
+        "price": 5915
+    },
+    {
+        "time PST": "07:36",
+        "price": 5873
+    },
+    {
+        "time PST": "07:37",
+        "price": 4631
+    },
+    {
+        "time PST": "07:38",
+        "price": 5690
+    },
+    {
+        "time PST": "07:39",
+        "price": 4719
+    },
+    {
+        "time PST": "07:40",
+        "price": 3466
+    },
+    {
+        "time PST": "07:41",
+        "price": 3153
+    },
+    {
+        "time PST": "07:42",
+        "price": 3073
+    },
+    {
+        "time PST": "07:43",
+        "price": 2687
+    },
+    {
+        "time PST": "07:44",
+        "price": 2747
+    },
+    {
+        "time PST": "07:45",
+        "price": 2756
+    },
+    {
+        "time PST": "07:46",
+        "price": 2766
+    },
+    {
+        "time PST": "07:47",
+        "price": 2722
+    },
+    {
+        "time PST": "07:48",
+        "price": 2728
+    },
+    {
+        "time PST": "07:49",
+        "price": 2265
+    },
+    {
+        "time PST": "07:50",
+        "price": 449
+    },
+    {
+        "time PST": "07:51",
+        "price": 535
+    },
+    {
+        "time PST": "07:52",
+        "price": 461
+    },
+    {
+        "time PST": "07:53",
+        "price": 651
+    },
+    {
+        "time PST": "07:54",
+        "price": 626
+    },
+    {
+        "time PST": "07:55",
+        "price": 556
+    },
+    {
+        "time PST": "07:56",
+        "price": 774
+    },
+    {
+        "time PST": "07:57",
+        "price": 768
+    },
+    {
+        "time PST": "07:58",
+        "price": 744
+    },
+    {
+        "time PST": "07:59",
+        "price": 715
+    },
+    {
+        "time PST": "08:00",
+        "price": 709
+    },
+    {
+        "time PST": "08:01",
+        "price": 699
+    },
+    {
+        "time PST": "08:02",
+        "price": 668
+    },
+    {
+        "time PST": "08:03",
+        "price": 700
+    },
+    {
+        "time PST": "08:04",
+        "price": 719
+    },
+    {
+        "time PST": "08:05",
+        "price": 593
+    },
+    {
+        "time PST": "08:06",
+        "price": 1336
+    },
+    {
+        "time PST": "08:07",
+        "price": 1272
+    },
+    {
+        "time PST": "08:08",
+        "price": 1202
+    },
+    {
+        "time PST": "08:09",
+        "price": 1043
+    },
+    {
+        "time PST": "08:10",
+        "price": 1226
+    },
+    {
+        "time PST": "08:11",
+        "price": 946
+    },
+    {
+        "time PST": "08:12",
+        "price": 995
+    },
+    {
+        "time PST": "08:13",
+        "price": 950
+    },
+    {
+        "time PST": "08:14",
+        "price": 890
+    },
+    {
+        "time PST": "08:15",
+        "price": 822
+    },
+    {
+        "time PST": "08:16",
+        "price": 863
+    },
+    {
+        "time PST": "08:17",
+        "price": 754
+    },
+    {
+        "time PST": "08:18",
+        "price": 851
+    },
+    {
+        "time PST": "08:19",
+        "price": 777
+    },
+    {
+        "time PST": "08:20",
+        "price": 608
+    },
+    {
+        "time PST": "08:21",
+        "price": 569
+    },
+    {
+        "time PST": "08:22",
+        "price": 602
+    },
+    {
+        "time PST": "08:23",
+        "price": 565
+    },
+    {
+        "time PST": "08:24",
+        "price": 564
+    },
+    {
+        "time PST": "08:25",
+        "price": 566
+    },
+    {
+        "time PST": "08:26",
+        "price": 542
+    },
+    {
+        "time PST": "08:27",
+        "price": 549
+    },
+    {
+        "time PST": "08:28",
+        "price": 266
+    },
+    {
+        "time PST": "08:29",
+        "price": 175
+    },
+    {
+        "time PST": "08:30",
+        "price": 186
+    },
+    {
+        "time PST": "08:31",
+        "price": 149
+    },
+    {
+        "time PST": "08:32",
+        "price": 38
+    },
+    {
+        "time PST": "08:33",
+        "price": 24
+    },
+    {
+        "time PST": "08:34",
+        "price": 24
+    },
+    {
+        "time PST": "08:35",
+        "price": 56
+    },
+    {
+        "time PST": "08:36",
+        "price": 399
+    },
+    {
+        "time PST": "08:37",
+        "price": 474
+    },
+    {
+        "time PST": "08:38",
+        "price": 309
+    },
+    {
+        "time PST": "08:39",
+        "price": 202
+    },
+    {
+        "time PST": "08:40",
+        "price": 177
+    },
+    {
+        "time PST": "08:41",
+        "price": 170
+    },
+    {
+        "time PST": "08:42",
+        "price": 172
+    },
+    {
+        "time PST": "08:43",
+        "price": 58
+    },
+    {
+        "time PST": "08:44",
+        "price": 29
+    },
+    {
+        "time PST": "08:45",
+        "price": 24
+    },
+    {
+        "time PST": "08:46",
+        "price": 25
+    },
+    {
+        "time PST": "08:47",
+        "price": 16
+    },
+    {
+        "time PST": "08:48",
+        "price": 16
+    },
+    {
+        "time PST": "08:49",
+        "price": 21
+    },
+    {
+        "time PST": "08:50",
+        "price": 21
+    },
+    {
+        "time PST": "08:51",
+        "price": 28
+    },
+    {
+        "time PST": "08:52",
+        "price": 26
+    },
+    {
+        "time PST": "08:53",
+        "price": 20
+    },
+    {
+        "time PST": "08:54",
+        "price": 24
+    },
+    {
+        "time PST": "08:55",
+        "price": 30
+    },
+    {
+        "time PST": "08:56",
+        "price": 16
+    },
+    {
+        "time PST": "08:57",
+        "price": 18
+    },
+    {
+        "time PST": "08:58",
+        "price": 25
+    },
+    {
+        "time PST": "08:59",
+        "price": 16
+    }
+]

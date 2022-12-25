@@ -1,0 +1,16 @@
+src/
+examples/
+screenshots/
+docs/
+bin/
+node_modules/
+build/global
+index.html
+.eslintrc
+.gitignore
+CONTRIBUTING.md
+examples-bundle.js
+examples-bundle.js.map
+*.config.js
+.DS_Store
+npm-debug.log
